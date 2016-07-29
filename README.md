@@ -1,5 +1,6 @@
-# hello-world
+# HelloWorld
 Sample Repository
+HelloWorld program for iOS
 
 Test ...........
 Test ...........
